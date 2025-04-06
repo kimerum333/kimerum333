@@ -25,6 +25,7 @@
 **Frameworks**: 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 **Infrastructure**: 
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
