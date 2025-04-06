@@ -15,6 +15,7 @@
 **Tools**:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Databases**: 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -36,7 +37,7 @@
 ### 🚀 Career Path
 | Period | Company | Position | Description |
 |:------:|:-------:|:--------:|:------------|
-| 2025.04 - 현재 | SPC | 교육생 | 생성형 AI 활용 웹개발자 과정 |
+| 2025.04 - 현재 | 한국소프트웨어저작권협회 | 교육생 | 생성형 AI 활용 웹개발자 과정 |
 | 2024.11 - 2025.03 | F Lab | 멘티 | JPA, Redis 등 신규 기술스택 학습 |
 | 2024.11 - 2025.11 | 아네스트 코리아 | 정직원 | COBOL, JSP 기반 코어뱅킹 여신 솔루션 유지보수 |
 | 2024.09 - 2024.11 | 제스트CNS | 인턴 | 고용노동부 일경험 사업 참여 |
@@ -44,3 +45,4 @@
 
 ### 🔗 Connect with me
 - 📧 Email: kimerum333@gmail.com
+- 🔗 LinkedIn: [준비 중]
