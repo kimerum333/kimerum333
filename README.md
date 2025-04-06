@@ -1,4 +1,3 @@
-
 ## 👋 Hello, I'm Erum Kim
 
 ### 🚀 About Me
@@ -35,7 +34,6 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 ### 🚀 Career Path
-
 | Period | Company | Position | Description |
 |:------:|:-------:|:--------:|:------------|
 | 2025.04 - 현재 | SPC | 교육생 | 생성형 AI 활용 웹개발자 과정 |
@@ -44,8 +42,5 @@
 | 2024.09 - 2024.11 | 제스트CNS | 인턴 | 고용노동부 일경험 사업 참여 |
 | 2023.12 - 2024.07 | 비트캠프 | 교육생 | JAVA 웹개발 과정 수료 (첫 코딩 경험) |
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kimerum333&show_icons=true)
-
 ### 🔗 Connect with me
-[LinkedIn 배지, Email 등]
+- 📧 Email: kimerum333@gmail.com
