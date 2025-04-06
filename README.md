@@ -45,7 +45,7 @@
 | 2023.12 - 2024.07 | 비트캠프 | 교육생 | JAVA 웹개발 과정 수료 (첫 코딩 경험) |
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kimerum333&show_icons=true)
 
 ### 🔗 Connect with me
 [LinkedIn 배지, Email 등]
