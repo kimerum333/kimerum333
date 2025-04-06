@@ -1,5 +1,5 @@
 
-## 👋 Hello, I'm [Your Name]
+## 👋 Hello, I'm Erum Kim
 
 ### 🚀 About Me
 - 백엔드 개발에 관심 있는 주니어 개발자
