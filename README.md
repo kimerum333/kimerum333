@@ -46,4 +46,3 @@
 
 ### 🔗 Connect with me
 - 📧 Email: kimerum333@gmail.com
-- 🔗 LinkedIn: [준비 중]
